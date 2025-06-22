@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KWCb7Zel1U=",
+  "dgSpecHash": "4tRQ3dOuvlo=",
   "success": true,
-  "projectFilePath": "D:\\MINH\\Download\\BTL\\BTL.csproj",
+  "projectFilePath": "D:\\MINH\\Code\\.NET\\Winform\\BTL\\BTL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\84968\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\84968\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

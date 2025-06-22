@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MINH\\Download\\BTL\\BTL.csproj": {}
+    "D:\\MINH\\Code\\.NET\\Winform\\BTL\\BTL.csproj": {}
   },
   "projects": {
-    "D:\\MINH\\Download\\BTL\\BTL.csproj": {
+    "D:\\MINH\\Code\\.NET\\Winform\\BTL\\BTL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MINH\\Download\\BTL\\BTL.csproj",
+        "projectUniqueName": "D:\\MINH\\Code\\.NET\\Winform\\BTL\\BTL.csproj",
         "projectName": "BTL",
-        "projectPath": "D:\\MINH\\Download\\BTL\\BTL.csproj",
+        "projectPath": "D:\\MINH\\Code\\.NET\\Winform\\BTL\\BTL.csproj",
         "packagesPath": "C:\\Users\\84968\\.nuget\\packages\\",
-        "outputPath": "D:\\MINH\\Download\\BTL\\obj\\",
+        "outputPath": "D:\\MINH\\Code\\.NET\\Winform\\BTL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
