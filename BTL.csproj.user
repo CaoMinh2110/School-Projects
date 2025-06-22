@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomControls\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomDatePicker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomNumbericUpDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Class\AssessmentTypes_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Class\Classes_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Class\Class_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Class\Class_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Class\Course_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DeleteList_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\General\CourseCategories_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\General\Semester_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Scoreboard\Scoreboard_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Class\Course_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\General\General_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Main_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\General\Major_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\General\Semester_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\Setting_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_Detail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_Infor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_Score.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_Scoreboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_ToClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\StudentForm\Student_View.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
